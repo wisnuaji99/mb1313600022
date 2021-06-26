@@ -17,3 +17,6 @@ I want to create an aplication that will display the news
 
 ### 1313617026 (Nadira Meidina Yasmine)
 I propose to create an app that can predict the user's period cycles, fertile window, and ovulation day.
+
+### 1313617024 (Prianugrah Widijatmiko)
+I want to create an application to order item for Dine-in at GAKedai.
