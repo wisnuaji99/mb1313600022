@@ -26,3 +26,6 @@ I want to create an app that can tell its user about nutritional values of foods
 
 ### 1313617006 (Farid Wujdi Mubarok)
 I want to create an app that can read iqra and daily dua.
+
+### 1313617004 (Pradyanti) 
+I want to create an app that can display makeup products 
