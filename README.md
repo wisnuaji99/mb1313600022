@@ -1,5 +1,5 @@
 # Intro
-This repo is used to submit proposal for Final Project mobile computing course term 2020/2021. 
+This repo is used to submit proposal for Final Project mobile computing course term 2020/2021. Please be carefull when you commit, to avoid unintended branching due to commit conflict among you. Always make a pull before committing. 
 
 ## Submission Rules
 1. Student submit proposal in two places, here in this readme of your abstract and
@@ -10,4 +10,5 @@ This repo is used to submit proposal for Final Project mobile computing course t
 6. Inside personal student directory put initiwal wireframe of your app, then link the images from personal README.md. 
 
 ### Student Name
-I want to create an app which stores and quantify werehouse items. Immediate following student please discard this section during your push. 
+I want to create an app which stores and quantify werehouse items. Immediate following student which pushed to this repo, please discard this section during your push. 
+
