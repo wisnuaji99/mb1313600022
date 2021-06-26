@@ -14,3 +14,6 @@ I want to create an adzan application which also contain compass for point to Qi
 
 ### 1313617003 (Arimbi Mega Ningrum)
 I want to create an aplication that will display the news
+
+### 1313617026 (Nadira Meidina Yasmine)
+I propose to create an app that can predict the user's period cycles, fertile window, and ovulation day.
