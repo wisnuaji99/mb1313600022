@@ -11,3 +11,6 @@ This repo is used to submit proposal for Final Project mobile computing course t
 
 ### 13136170017(Maldini Abdillah)
 I want to create an adzan application which also contain compass for point to Qiblah
+
+### 1313617003 (Arimbi Mega Ningrum)
+I want to create an aplication that will display the news
