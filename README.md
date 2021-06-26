@@ -20,3 +20,6 @@ I propose to create an app that can predict the user's period cycles, fertile wi
 
 ### 1313617024 (Prianugrah Widijatmiko)
 I want to create an application to order item for Dine-in at GAKedai.
+
+### 1313617032 (Hafizhun Alim)
+I want to create an app that can tell its user about nutritional values of foods
