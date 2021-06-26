@@ -32,3 +32,6 @@ I want to create an app that can display makeup products
 
 ### 1313617036 (ahmad badruzaman)
 I want to make an app that will display the tourist attraction in Bandung
+
+### 1313617012 (Muhammad Aldrich Rinaldi)
+I want to make an app that will show us (espesially traders and coin miners) the current cryptocurrecy values
