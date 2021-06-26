@@ -29,3 +29,6 @@ I want to create an app that can read iqra and daily dua.
 
 ### 1313617004 (Pradyanti) 
 I want to create an app that can display makeup products 
+
+### 1313617036 (ahmad badruzaman)
+I want to make an app that will display the tourist attraction in Bekasi
