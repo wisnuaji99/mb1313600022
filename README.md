@@ -23,3 +23,6 @@ I want to create an application to order item for Dine-in at GAKedai.
 
 ### 1313617032 (Hafizhun Alim)
 I want to create an app that can tell its user about nutritional values of foods
+
+### 1313617006 (Farid Wujdi Mubarok)
+I want to create an app that can read iqra and daily dua.
