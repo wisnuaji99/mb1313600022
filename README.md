@@ -41,3 +41,6 @@ I want to create a simple marketplace app.
 
 ### 1313617035 (Adini Gufroni)
 I want to create an application that show information about taking care pets for new pet owner (especially cat).
+
+### 1313617027 (Wisnu Aji P)
+I want to create an application that can show information about motorcycle maintenance
