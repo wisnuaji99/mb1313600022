@@ -40,4 +40,4 @@ I want to make an item counting application based from counter app for segurido 
 I want to create a simple marketplace app.
 
 ### 1313617035 (Adini Gufroni)
-I want to create an application that show information about taking care pets for new pet owner (especially cat).
+I want to create an application that display information about taking care of pets for new pet owner (especially cat).
